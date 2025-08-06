@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou o Márcio 👋
 
-<!--
-**marciojuniorereis/marciojuniorereis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por desenvolvimento **Back-End**.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Estou focado em evoluir cada vez mais como desenvolvedor, especialmente em **Java**, minha principal meta de aprendizado no momento.
+- 💻 Gosto de criar soluções robustas, eficientes e escaláveis para o back-end.
+
+## Objetivos
+
+- Aprimorar minhas habilidades em **Java**
+- Me tornar um profissional de referência em desenvolvimento back-end
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
